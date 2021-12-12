@@ -1,4 +1,2 @@
 runtime: custom
 env: flex
-
-entrypoint: streamlit run streamlit-app.py --server.port 8080
